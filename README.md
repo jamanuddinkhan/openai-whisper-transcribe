@@ -26,5 +26,5 @@ pip install openai-whisper
 # Step 5: Install ffmpeg
 sudo apt install ffmpeg
 
-# run the following command
+## Step 6: run the following command
 python main.py
