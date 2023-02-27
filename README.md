@@ -8,23 +8,22 @@ The first step in the transcription process is to convert the video file into an
 
 And there you have it, our transcription is complete! The process is straightforward, easily accessible, and provides a robust transcription, as demonstrated above.
 
-#(On Linux)
+# (On Linux)
 
-# Step 1: System update
+### Step 1: System update
 sudo apt update && sudo apt upgrade
 
-# Step 2: Install Python 3
+### Step 2: Install Python 3
 sudo apt install python3
 
-# Step 3: Install pip
+### Step 3: Install pip
 sudo apt install python3-pip
 
-# Step 4: Install open AI whisper
+### Step 4: Install open AI whisper
 pip install openai-whisper
 
-
-# Step 5: Install ffmpeg
+### Step 5: Install ffmpeg
 sudo apt install ffmpeg
 
-## Step 6: run the following command
+### Step 6: run the following command
 python main.py
